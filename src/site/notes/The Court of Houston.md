@@ -17,15 +17,3 @@ Nosferatu: [[Georgios "Gorgeous" Nikos\|Georgios "Gorgeous" Nikos]]
 Toreador: [[Rupert Lightheart\|Rupert Lightheart]], but on thin ice
 Tremere: none appointed after assassination of the previous 
 Lasombra: [[Celia Talley\|Celia Talley]]
-
----
-
-**Non-Council Clans**
-
-Brujah
-Gangrel
-Ministry
-Ravnos
-Salubri
-Tzimisce
-Hecata
