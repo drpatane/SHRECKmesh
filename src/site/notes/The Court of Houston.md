@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-court-of-houston/"}
 ---
 
-
+# The Court of Houston
 
 **Prince**: [[Castor Augustus\|Castor Augustus]]
 **Seneschal**: None appointed, formerly held by Castor Augustus 
