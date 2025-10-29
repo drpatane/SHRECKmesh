@@ -4,9 +4,9 @@
 
 # The Court of Houston
 
-**Prince**: [[3 Characters/3.2 NPCs/Castor Augustus\|Castor Augustus]]
+**Prince**: [[3 Characters/3.2 NPCs/Castor Augustus\|Castor Augustus]], Clan Ventrue
 **Seneschal**: None appointed, formerly held by Castor Augustus 
-**Sheriff**: [[3 Characters/3.2 NPCs/Violet Rosenberg\|Violet Rosenberg]] 
+**Sheriff**: [[3 Characters/3.2 NPCs/Violet Rosenberg\|Violet Rosenberg]], Clan Banu Hakim
 **Herald**: None appointed 
 **Principal of the Faith**: [[3 Characters/3.2 NPCs/Francesca Aragon\|Francesca Aragon]], Clan Lasombra
 
