@@ -4,7 +4,7 @@
 
 # V's Creed
 
-### by Olivia Setta
+### by V
 
 
 1. [[1 DM Stuff/1.1 ShreckMesh/2 V's Creed/There Were Five\|There Were Five]]
