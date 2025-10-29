@@ -4,6 +4,8 @@
 
 # The Court of Houston
 
+Not much to introduce. If you've made it to your second night in this city, you know about the Camarilla. These fucks claim the whole city, but nobody actually believes them, even them. The  sheriff might love killing,  but even she isn't stupid enough to try to enforce Camarilla control right now.
+
 **Prince**: [[3 Characters/3.2 NPCs/Castor Augustus\|Castor Augustus]], Clan Ventrue
 **Seneschal**: None appointed, formerly held by Castor Augustus 
 **Sheriff**: [[3 Characters/3.2 NPCs/Violet Rosenberg\|Violet Rosenberg]], Clan Banu Hakim

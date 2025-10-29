@@ -15,8 +15,9 @@ Don't laugh it's what they call themselves. No I don't know what revolution they
 
 **Brujah**: [[Baron "Menela"\|Baron "Menela"]] (yes that's what she calls herself no nobody knows her real name)
 **Gangrel**: [[Baron Deker Raine\|Baron Deker Raine]]
-**Ministry**: No baron, but if some kindred is running a grift odds are it's one of these guys
-Assorted other kindred slumming it away from their mainly Cammy clans
+**Ministry**: No baron, but if some kindred is running a grift odds are it's one of these guys.
+
+There's plenty of assorted other kindred slumming it with the Anarchs, even if their clan has a seat on the Council.
 
 ---
 #### "Other" Clans
