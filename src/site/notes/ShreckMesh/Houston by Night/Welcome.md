@@ -20,10 +20,9 @@ What is this place? Why, it's SchreckNet 2.0!
 
 ---
 
-# *V's Creed*
+# [[*V's Creed*\|*V's Creed*]]
 
 *added with regret by DraC00La, 10/28/2025*
 
 Sometimes when a "friend" calls in a favor, you end up being asked to do something that almost makes you wish to stand in the sun. I don't know who this "V" is. I don't know why it's so necessary that her "poetry" takes up precious space on my information. But a deal's a deal: 
 
-[[ShreckMesh/V's Creed/V's Creed\|Don't ask me for anything else ever again]]
