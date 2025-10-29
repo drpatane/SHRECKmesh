@@ -2,11 +2,8 @@
 {"dg-publish":true,"permalink":"/1-dm-stuff/1-1-shreck-mesh/2-v-s-creed/there-were-five/"}
 ---
 
-#Olivia
+#Olivia 
 
-
-
-by [[3 Characters/3.1 PCs/Olivia Setta\|Olivia Setta]]
 
 There were five
 Fingers to a hand
