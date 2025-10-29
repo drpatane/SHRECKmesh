@@ -13,20 +13,20 @@ This Nosferatu is glad Caine no longer walks among us because if he could see th
 
 Don't laugh it's what they call themselves. No I don't know what revolution they're talking about either. But if you want to talk to some arrogant losers who believe they speak for the rest of Houston's Anarchs, here you go. 
 
-Brujah: [[Baron "Menela"\|Baron "Menela"]] (yes that's what she calls herself no nobody knows her real name)
-Gangrel: [[Baron Deker Raine\|Baron Deker Raine]]
-Ministry: No baron, but if some kindred is running a grift odds are it's one of these guys
-Lots of kindred slumming it away from their mainly Cammy clans
+**Brujah**: [[Baron "Menela"\|Baron "Menela"]] (yes that's what she calls herself no nobody knows her real name)
+**Gangrel**: [[Baron Deker Raine\|Baron Deker Raine]]
+**Ministry**: No baron, but if some kindred is running a grift odds are it's one of these guys
+Assorted other kindred slumming it away from their mainly Cammy clans
 
 ---
 #### "Other" Clans
 
 No it's not that they're unimportant I just don't know what they're doing and some of them kind of scare me. 
 
-Hecata: They're around. They're weird. We get it, you're goth. No leader but you'll find them at Numbers, La Carafe, or being cringe at graveyards.
+**Hecata**: They're around. They're weird. We get it, you're goth. No leader but you'll find them at Numbers, La Carafe, or being cringe at graveyards.
 
-Ravnos: Walk a lonely road, the only road they have ever known. They're certainly in Houston but they'll be the last to tell you about it.
+**Ravnos**: Walk a lonely road, the only road they have ever known. They're certainly in Houston but they'll be the last to tell you about it.
 
-Tzimisce and Salubri: Thank fuck none of these psychos have shown up. If you spot one, maybe don't tell me I don't know that I even want to know.
+**Tzimisce** and **Salubri**: Thank fuck none of these psychos have shown up. If you spot one, maybe don't tell me I don't know that I even want to know.
 
 And of course there's the uncounted and uncountable clanless (clan traitors if you ask me) and duskborn running about. I'm sure is the year the licks over in the  [[ShreckMesh/Houston by Night/Emancipated Domain of Montrose\|Emancipated Domain of Montrose]] gets their shit together.
