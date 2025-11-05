@@ -29,15 +29,12 @@ Sometimes when a "friend" calls in a favor, you consider taking up sunbathing in
 ---
 > [!fail] WARNING
 > 
-> STOP: 0x0040007E DETECT_MESH_INTRUSION
-> PROBE_NXDOMAIN_FAILED
-> HEARTBEAT_EXCEPTION_META
+> EVENT_DETECT: MESH_INTRUSION
+> PROBE_NXDOMAIN: FAILED
+> HEARTBEAT_EX_CLASS: OUTSIDE_CONTEXT
 > PROTOCOL: OPEN
->
 >  [[ShreckMesh/Houston by Night/STORYTELLER\|STORYTELLER]]
->  
 > PROTOCOL: CLOSE
->
 
 
 
