@@ -27,14 +27,15 @@ What is this place? Why, it's SchreckNet 2.0!
 Sometimes when a "friend" calls in a favor, you consider taking up sunbathing instead. I don't know who this "V" is. I don't know why it's so necessary that their "poetry" takes up precious space on the mesh. But a deal's a deal. *This makes us even.*
 
 ---
-
+> [!fail] WARNING
 ```
-STOP: 0x0040007E MESH_INTRUSION_BREACH
+STOP: 0x0040007E DETECT_MESH_INTRUSION
 PROBE_NXDOMAIN_FAILED
 HEARTBEAT_EXCEPTION_META
-PROTOCOL_OPEN
+PROTOCOL: OPEN
 ```
 [[ShreckMesh/Houston by Night/STORYTELLER\|STORYTELLER]]
+
 ```
-PROTOCOL_CLOSE
+PROTOCOL: CLOSE
 ```
