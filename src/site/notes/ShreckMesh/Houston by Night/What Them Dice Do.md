@@ -24,4 +24,10 @@ A quick reference for interpreting the dice
  
  ## ![w1uu19E.png|50](/img/user/9%20Archive/w1uu19E.png) Bestial Failure
 
-If a **failed roll** contains one of these, fail task with extra consequences from the Beast
+If a **failed test** contains one of these, fail task with extra consequences from the Beast
+
+---
+
+## ![VztXJUU.png|50](/img/user/9%20Archive/VztXJUU.png)Messy Critical
+
+If a **successful test** contains at lease one of these, complete task with extra consequences from the Beast (success with consequences)
