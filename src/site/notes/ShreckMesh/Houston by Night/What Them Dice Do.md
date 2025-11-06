@@ -36,7 +36,7 @@ If a **failed test** contains one of these, fail task with extra consequences fr
 
 ### ![VztXJUU.png|50](/img/user/9%20Archive/VztXJUU.png) <font style="color:red">Messy Critical</font>
 
-If a **successful test** contains at lease one of these, complete task with extra consequences from the Beast (success with consequences)
+If a **critical success** contains at lease one of these, complete task with extra consequences from the Beast (success with consequences)
 
 ---
 ### <font style="color:red">Blank Face</font>
