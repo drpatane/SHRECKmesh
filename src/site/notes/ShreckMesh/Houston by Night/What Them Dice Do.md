@@ -19,9 +19,9 @@ A quick reference for interpreting the dice
 |              ![[w1uu19E.png\|30]]              | Bestial failure  |         Fail roll containing these<br>Fail task, consequences from Beast          |
  
  
-# **<font style="color:red">Hunger Dice</font>
+# <font style="color:red">Hunger Dice</font>
  
  
- ## ![w1uu19E.png|50](/img/user/9%20Archive/w1uu19E.png)  ## Bestial **Failure**
+ ## ![w1uu19E.png|50](/img/user/9%20Archive/w1uu19E.png) Bestial Failure
 
 If a **failed roll** contains one of these, fail task with extra consequences from the Beast
