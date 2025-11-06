@@ -4,4 +4,4 @@
 
 # Relationship Map
 
-![Relationship Map 1.png|2060](/img/user/9%20Archive/Relationship%20Map%201.png)
+![Relationship Map 1.png|1080](/img/user/9%20Archive/Relationship%20Map%201.png)
