@@ -4,6 +4,6 @@
 
 # STORYTELLER
 
-[[The Coterie\|The Coterie]] 
+[[ShreckMesh/Houston by Night/The Coterie\|The Coterie]] 
 
 [[ShreckMesh/Houston by Night/Relationship Map\|Relationship Map]]
