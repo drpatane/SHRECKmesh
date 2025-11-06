@@ -28,17 +28,17 @@ Regular failure, no extra consequences or effect
 # <font style="color:red">Hunger Dice</font>
  
  
- ### ![w1uu19E.png|50](/img/user/9%20Archive/w1uu19E.png) Bestial Failure
+ ### ![w1uu19E.png|50](/img/user/9%20Archive/w1uu19E.png) <font style="color:red">Bestial Failure</font>
 
 If a **failed test** contains one of these, fail task with extra consequences from the Beast
 
 ---
 
-### ![VztXJUU.png|50](/img/user/9%20Archive/VztXJUU.png) Messy Critical
+### ![VztXJUU.png|50](/img/user/9%20Archive/VztXJUU.png) <font style="color:red">Messy Critical</font>
 
 If a **successful test** contains at lease one of these, complete task with extra consequences from the Beast (success with consequences)
 
 ---
-### Blank Face
+### <font style="color:red">Blank Face</font>
 
 Regular failure, no extra consequences or effect
