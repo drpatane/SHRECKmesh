@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/the-coterie/"}
 ---
 
-# The Coterie
+# ~~Ladies of the Night~~ Fangtastic Five
 
 ### Coterie Type: Envoy
 
