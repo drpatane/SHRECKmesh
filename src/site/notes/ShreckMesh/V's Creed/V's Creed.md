@@ -7,3 +7,4 @@
 ### Observed by V
 
 1. [[ShreckMesh/V's Creed/There Were Five\|There Were Five]]
+2. [[ShreckMesh/V's Creed/Lamb's Blood\|Lamb's Blood]]
