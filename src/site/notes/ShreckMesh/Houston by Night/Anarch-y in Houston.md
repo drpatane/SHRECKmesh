@@ -4,12 +4,11 @@
 
 
 # Anarch-y in Houston 
-### (aka non-Camarilla clans)
 
 *last edited by DraC00La, 10/29/2025*
 
 This Nosferatu is glad Caine no longer walks among us because if he could see the absolute shitshow that his childer have made of this city, he may start thinking Lilith was right. Are these clans Anarch? I don't know that they've stopped bickering long enough to even think about that. Sect is so fucking blurry in Houston these nights I'm beginning to think it doesn't really matter. 
-#### Anarch Revolutionary Council
+## Anarch Revolutionary Council
 
 Don't laugh it's what they call themselves. No I don't know what revolution they're talking about either. But if you want to talk to some arrogant losers who believe they speak for the rest of Houston's Anarchs, here you go. 
 
@@ -18,9 +17,7 @@ Don't laugh it's what they call themselves. No I don't know what revolution they
 **Ministry**: No baron, but if some kindred is running a grift odds are it's one of these guys.
 
 There's plenty of assorted other kindred slumming it with the Anarchs, even if their clan has a seat on the Council.
-
----
-#### "Other" Clans
+## "Other" Clans
 
 No it's not that they're unimportant I just don't know what they're doing and some of them kind of scare me. 
 
