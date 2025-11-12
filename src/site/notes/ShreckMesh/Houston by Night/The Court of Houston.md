@@ -14,7 +14,7 @@ Not much to introduce. If you've made it to your second night in this city, you 
 
 ### Primogen Council
 
-**Malkavian**: [[Leopold "D00mShr3dder_XxX" Schraeder\|Leopold "D00mShr3dder_XxX" Schraeder]]
+**Malkavian**: [[Leopold "D00mShr3dder_XxX" Schraeder\|Leopold "D00mShr3dder_XxX" Schraeder]], appointed 2021 by Prince
 **Nosferatu**: [[Georgios "Gorgeous" Nikos\|Georgios "Gorgeous" Nikos]] (but let's be honest we look out for ourselves first)
 **Toreador**: [[Rupert Lightheart\|Rupert Lightheart]] (annoying)
 **Tremere**: none appointed after the assassination 
