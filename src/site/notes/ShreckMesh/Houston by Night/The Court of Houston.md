@@ -15,7 +15,7 @@ Not much to introduce. If you've made it to your second night in this city, you 
 ### Primogen Council
 
 **Malkavian**: [[Leopold "D00mShr3dder_XxX" Schraeder\|Leopold "D00mShr3dder_XxX" Schraeder]], appointed 2021 by Prince
-**Nosferatu**: [[Georgios "Gorgeous" Nikos\|Georgios "Gorgeous" Nikos]] (but let's be honest we look out for ourselves first)
-**Toreador**: [[Rupert Lightheart\|Rupert Lightheart]] (annoying)
-**Tremere**: none appointed after the assassination 
-**Lasombra**: [[Celia Talley\|Celia Talley]]
+**Nosferatu**: [[Georgios "Gorgeous" Nikos\|Georgios "Gorgeous" Nikos]], elected 2019 because we have our shit together
+**Toreador**: [[Rupert Lightheart\|Rupert Lightheart]], appointed 2022 by Prince
+**Tremere**: None/unknown
+**Lasombra**: [[Celia Talley\|Celia Talley]], elected 2019 by clan, takes seat 2024 because our Prince likes dragging his feet

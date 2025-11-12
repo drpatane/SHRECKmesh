@@ -12,7 +12,5 @@
 
 [[ShreckMesh/Houston by Night/What Them Dice Do\|What Them Dice Do]]?
 
-[[ShreckMesh/Houston by Night/Drawing 2025-11-12 14.45.46.excalidraw\|Drawing 2025-11-12 14.45.46.excalidraw]]
-
 
 
