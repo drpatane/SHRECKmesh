@@ -6,18 +6,15 @@
 
 *last edited by DraC00La, 10/22/2025*
 
-If you're reading this, congratulations. You "hacked the planet" hidden behind your "seven proxies" as the kine say these days. And did so without getting dusted by the sheriff or some SI wetwork team that spiked your connection. 
+If you're reading this, congratulations. You "hacked the planet" as the kine say these days. And did so without getting dusted by the sheriff or getting your connection spiked by some SI wetwork team.
 
-What is this place? Why, it's SchreckNet 2.0! 
+What is this place? Why, it's SchreckNet 2.0! Now using the most secure and decentralized mesh network ever devised, here to deliver the critical information tonight's kindred need to survive! Our brave editors work tirelessly to rebuild the knowledge lost after the infiltration by the SI and Camarilla blood hunt. The Net shall be free once more!
 
-**Embraced yesterday? Start here:**
+### Articles 
 [[ShreckMesh/Houston by Night/Houston for Childer(en)\|Houston for Childer(en)]]
- 
-**Who's boots are you licking?** 
 [[ShreckMesh/Houston by Night/The Court of Houston\|The Court of Houston]]
 [[ShreckMesh/Houston by Night/Anarch-y in Houston\|Anarch-y in Houston]]
 [[ShreckMesh/Houston by Night/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]]
-
 
 ---
 # *[[ShreckMesh/V's Creed/V's Creed\|V's Creed]]*
