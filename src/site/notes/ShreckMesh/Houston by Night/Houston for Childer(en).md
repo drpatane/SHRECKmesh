@@ -7,13 +7,13 @@
 
 *last edited by DraC00La, 11/10/2025*
 
-If you're here, you picked a hell of a time to be Kindred in this city. Things have been an absolute shitshow since the Beckoning and the Years of Ash. The Camarilla claim the entire city, but even they're not so dense as to believe it. They also claim there aren't any Lupines in the Sam Houston National Forest and that there's no way the Second Inquisition is running around dusting kindred.
+And you thought mortal politics was a mess in this city... 
+
+The Camarilla claim the city, but even they're not so dense as to believe it. They also claim there aren't any Lupines in the Sam Houston National Forest and that there's no way the Second Inquisition is running around dusting kindred. So, like, you'd have to be an idiot to believe any of that is true.
 
 The Anarch barons talk of Houston as a free city, but somehow always manage to put off getting rid of the Prince. They spend almost as much time being bitchy to each other as they do screaming about revolution. 
 
-And you thought mortal politics was a mess in this city... 
-
-Maybe that's why the sects keep up the whole "mixed coterie" shit. Hoping to keep up with the chaos and maybe find a way to take the whole pie one day. 
+Maybe that's why the sects keep up the whole "mixed coterie" shit. Hoping they keep up with the chaos and maybe one day find a way to take the whole pie.
 
 ## Notable Events
 ___
