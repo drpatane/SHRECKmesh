@@ -9,7 +9,7 @@
 
 And you thought mortal politics was a mess in this city... 
 
-The Camarilla claim the city, but even they're not so dense as to believe it. They also claim there aren't any Lupines in the Sam Houston National Forest and that there's no way the Second Inquisition is running around dusting kindred. So, like, you'd have to be an idiot to believe any of that is true.
+The Camarilla claim the city, but even they're not so arrogant as to actually believe it. They also claim there aren't any Lupines in the Sam Houston National Forest and that the Second Inquisition isn't running around dusting kindred. So, like, you'd have to be an idiot to believe any of that is true.
 
 The Anarch barons talk of Houston as a free city, but somehow always manage to put off getting rid of the Prince. They spend almost as much time being bitchy to each other as they do screaming about revolution. 
 
