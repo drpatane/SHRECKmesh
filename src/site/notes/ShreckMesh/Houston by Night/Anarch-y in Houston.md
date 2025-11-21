@@ -5,7 +5,7 @@
 
 # Anarch-y in Houston 
 
-*edited by DraC00La, 10/29/2025*
+*created by DraC00La, 10/29/2025*
 
 This Nosferatu is glad Caine no longer walks among us because if he could see the absolute shitshow that his childer have made of this city, he may start thinking Lilith was right. Are these clans Anarch? I don't know that they've stopped bickering long enough to even think about that. Sect is so fucking blurry in Houston these nights I'm beginning to think it doesn't really matter. 
 ## Anarch Revolutionary Council
