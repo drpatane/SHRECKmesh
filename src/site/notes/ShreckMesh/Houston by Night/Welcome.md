@@ -4,7 +4,8 @@
 
 # Welcome
 
-*last edited by DraC00La, 10/22/2025*
+*created by DraC00La, 10/22/2025*
+*edited by DraC00La, 11/21/2025*
 
 If you're reading this, congratulations. You "hacked the planet" as the kine say these days. And did so without getting dusted by the sheriff or getting your connection spiked by some SI wetwork team.
 
@@ -19,7 +20,7 @@ What is this place? Why, it's SchreckNet 2.0! Now using the most secure and dece
 ---
 # *[[ShreckMesh/V's Creed/V's Creed\|V's Creed]]*
 
-*added with regret by DraC00La, 10/28/2025*
+*created (with regret) by DraC00La, 10/28/2025*
 
 Sometimes when a "friend" calls in a favor, you consider taking up sunbathing instead. I don't know who this "V" is. I don't know why it's so necessary that their "poetry" takes up precious space on the mesh. But a deal's a deal. *This makes us even.*
 
