@@ -8,3 +8,4 @@
 
 1. [[ShreckMesh/V's Creed/There Were Five\|There Were Five]]
 2. [[ShreckMesh/V's Creed/Lamb's Blood\|Lamb's Blood]]
+3. [[ShreckMesh/V's Creed/A String to Pull\|A String to Pull]]
