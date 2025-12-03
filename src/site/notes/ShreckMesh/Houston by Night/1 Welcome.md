@@ -1,0 +1,40 @@
+---
+{"dg-publish":true,"permalink":"/shreck-mesh/houston-by-night/1-welcome/","tags":["gardenEntry"]}
+---
+
+# Welcome
+
+*created by DraC00La, 10/22/2025*
+*edited by DraC00La, 11/21/2025*
+
+If you're reading this, congratulations. You "hacked the planet" as the kine say these days. And did so without getting dusted by the sheriff or getting your connection spiked by some SI wetwork team.
+
+What is this place? Why, it's SchreckNet 2.0! Now using the most secure and decentralized mesh network ever devised, here to deliver the critical information tonight's kindred need to survive! Our brave editors work tirelessly to rebuild the knowledge lost after the infiltration by the SI and Camarilla blood hunt. The Net shall be free once more!
+
+### Articles 
+[[ShreckMesh/Houston by Night/Houston for Childer(en)\|Houston for Childer(en)]]
+[[ShreckMesh/Houston by Night/The Court of Houston\|The Court of Houston]]
+[[ShreckMesh/Houston by Night/Anarch-y in Houston\|Anarch-y in Houston]]
+[[ShreckMesh/Houston by Night/Hot Single Mortals in Your Area\|Hot Single Mortals in Your Area]]
+
+---
+# *[[ShreckMesh/V's Creed/V's Creed\|V's Creed]]*
+
+*created (with regret) by DraC00La, 10/28/2025*
+
+Sometimes when a "friend" calls in a favor, you consider taking up sunbathing instead. I don't know who this "V" is. I don't know why it's so necessary that their "poetry" takes up precious space on the mesh. But a deal's a deal. *This makes us even.*
+
+---
+> [!fail] WARNING
+> 
+> EVENT_DETECT: MESH_INTRUSION
+> PROBE_NXDOMAIN: FAILED
+> HEARTBEAT_EX_CLASS: OUTSIDE_CONTEXT
+> PROTOCOL: OPEN
+> Rules and player references here:
+>  [[ShreckMesh/Houston by Night/STORYTELLER\|STORYTELLER]]
+> PROTOCOL: CLOSE
+
+
+
+
