@@ -4,6 +4,8 @@
 
 # Leveling Costs
 
+
+
 | Trait Costs             | XP Cost                           |
 | ----------------------- | --------------------------------- |
 | Increase Attribute      | new level x 5                     |
