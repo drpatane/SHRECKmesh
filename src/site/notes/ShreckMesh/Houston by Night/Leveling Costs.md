@@ -4,7 +4,7 @@
 
 # Leveling Costs
 
-
+Note: "New level" refers to the number of the level you'll be moving up to. For example, if you were moving from Level 1 of Obfuscate to Level 2, you would need to spend 2x5, or 10, experience points. 
 
 | Trait Costs             | XP Cost                           |
 | ----------------------- | --------------------------------- |
