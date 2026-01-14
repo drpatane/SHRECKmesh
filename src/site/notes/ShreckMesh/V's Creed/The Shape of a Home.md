@@ -61,7 +61,7 @@ The Mad One found a room
 with empty glasses on a table
 
 The spector's scream was piercing 
-s ending the Shadow and the Rider 
+sending the Shadow and the Rider 
 from the room. 
 
 The Mistress spoke with the spector 
