@@ -11,8 +11,8 @@ If you're reading this, congratulations. You "hacked the planet" as the kine say
 
 What is this place? Why, it's SchreckNet 2.0! Now using the most secure and decentralized mesh network ever devised, here to deliver the critical information tonight's kindred need to survive! Our brave editors work tirelessly to rebuild the knowledge lost after the infiltration by the SI and Camarilla blood hunt. The Net shall be free once more!
 
-## Directory
-
+## Sitemap
+---
 ### Notable Events
 
 Houston's Kindred are a dramatic bunch, even more so after the primogen left. We cover that whole shitshow in [[ShreckMesh/Houston by Night/Houston for Childer(en)\|Houston for Childer(en)]]. 
