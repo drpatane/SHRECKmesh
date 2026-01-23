@@ -4,14 +4,12 @@
 
 # STORYTELLER
 
-[[ShreckMesh/Houston by Night/Campaign Boundaries\|Campaign Boundaries]]
+Various rule and campaign out of character info can be found here. 
 
-[[ShreckMesh/Houston by Night/The Coterie\|The Coterie]] 
-
-[[ShreckMesh/Houston by Night/Relationship Map\|Relationship Map]]
-
-[[ShreckMesh/Houston by Night/What Them Dice Do\|What Them Dice Do]]?
-
-[[ShreckMesh/Houston by Night/Leveling Costs\|Leveling Costs]]
+- [[ShreckMesh/Houston by Night/Campaign Boundaries\|Campaign Boundaries]], for everyone's limits. 
+- [[ShreckMesh/Houston by Night/The Coterie\|The Coterie]], your group resources and contacts. 
+- [[ShreckMesh/Houston by Night/Relationship Map\|Relationship Map]], how you know each other and how you feel about it. 
+- [[ShreckMesh/Houston by Night/What Them Dice Do\|What Them Dice Do]], how to interpret the dice and count your rolls.
+- [[ShreckMesh/Houston by Night/Leveling Costs\|Leveling Costs]], how to spend experience on getting new stuff and skills. 
 
 
