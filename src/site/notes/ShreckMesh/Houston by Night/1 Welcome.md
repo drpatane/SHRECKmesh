@@ -13,6 +13,7 @@ What is this place? Why, it's SchreckNet 2.0! Now using the most secure and dece
 
 # Directory
 
+
 ## Notable Events
 
 Houston's Kindred are a dramatic bunch, even more so after the primogen left. We cover that whole shitshow in [[ShreckMesh/Houston by Night/Houston for Childer(en)\|Houston for Childer(en)]]. 
