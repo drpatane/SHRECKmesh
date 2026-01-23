@@ -10,3 +10,4 @@
 2. [[ShreckMesh/V's Creed/Lamb's Blood\|Lamb's Blood]]
 3. [[ShreckMesh/V's Creed/A String to Pull\|A String to Pull]]
 4. [[ShreckMesh/V's Creed/The Shape of a Home\|The Shape of a Home]]
+5. [[ShreckMesh/V's Creed/Ambush\|Ambush]]
