@@ -52,8 +52,8 @@ A primogen's spirit to cling to
 Though, a grenade canister showed us 
 How this conflagration had quickly begun
 
-Up the elevator went the five 
+Up the elevator went the Five 
 And, when those doors had opened
-Four mortals had trained their weapons 
+five mortals had trained their weapons 
 On the Five who outnumbered them.
 
